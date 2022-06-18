@@ -1,7 +1,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"  align="right" style="margin: 20px; margin-bottom: 20px;" />
 
-### I'm shuhongfan  ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+### I'm shuhongfan  ![](https://visitor-badge.glitch.me/badge?page_id=shuhongfan)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,7 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <img src="https://github-profile-trophy.vercel.app/?username=shuhongfan&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shuhongfan&show_icons=true&theme=gotham" alt="shuhongfan"   />
