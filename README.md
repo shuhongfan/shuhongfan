@@ -1,5 +1,5 @@
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"  align="right" style="margin: 20px; margin-bottom: 20px;" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"  align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ### I'm shuhongfan  ![](https://visitor-badge.glitch.me/badge?page_id=shuhongfan)
 - 🔭 I’m currently working on ...
