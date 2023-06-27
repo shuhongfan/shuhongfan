@@ -45,7 +45,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuhongfan&theme=dracula&bg_color=FF000000&hide_border=true" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuhongfan" />
     </td>
   </tr>
 </table>
